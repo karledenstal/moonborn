@@ -50,17 +50,14 @@ Only ideas. Not sure it will come to be.
     - [ ] Find new recruits for the Companions
     - [ ] Given by Vilkas (spliced dialogue)
     - [ ] Only given after Player is Harbinger
-- [ ] Apply Skjors old Radiant quests
-  - [ ] Escaped Criminal applied to Vilkas
-  - [ ] Family Heirloom applied to Farkas
-- [ ] Aela Restored content included
-  - [ ] Aela can be shield sibling
-  - [ ] Pelt Collection + Hunterborn patch
-  - [ ] Chill out Aela
-- [ ] Companion leaders no longer wait around for you
+- [x] Aela Restored content included
+  - [x] Aela can be shield sibling
+  - [x] Pelt Collection + Hunterborn patch
+  - [x] Tell Aela the Giant were dead before you got there
+- [x] Companion leaders no longer wait around for you
 - [ ] Set new Ranks in the Companions
   - [ ] Decided who becomes your right hand man/woman
-- [ ] Remove "Talk to Companion leaders for jobs" misc quest
+- [x] Remove "Talk to Companion leaders for jobs" misc quest
 - [ ] Recruitment requirements
   - [ ] Needs X amount of levels in certain schools to be a member
   - [ ] If you're dragonborn (Dragon Rising quest completed), requirements are automatically met

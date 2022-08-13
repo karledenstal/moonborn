@@ -7,16 +7,16 @@ GlobalVariable Property FarkasRespect auto
 GlobalVariable Property VilkasRespect auto
 GlobalVariable Property SkjorRespect auto
 
-; Variables
-Bool Property bIsRunningAelaRadiant = false auto
-Bool Property bIsRunningFarkasRadiant = false auto
-Bool Property bIsRunningVilkasRadiant = false auto
-Bool Property bIsRunningSkjorRadiant = false auto
+Bool Property bIsRunningAelaRadiant auto conditional
+Bool Property bIsRunningFarkasRadiant auto conditional
+Bool Property bIsRunningVilkasRadiant auto conditional
+Bool Property bIsRunningSkjorRadiant auto conditional
 
-int LowAmountOfRespect = 2
-int MediumAmountOfRespect = 4
-int HighAmountOfRespect = 7
-int MaxAmountOfRespect = 10
+; Variables
+Int Property LowAmountOfRespect auto
+Int Property MediumAmountOfRespect auto
+Int Property HighAmountOfRespect auto
+Int Property MaxAmountOfRespect auto
 
 Int Function GetRewardedRespect(string amount)
     if amount == "Medium"
@@ -32,4 +32,16 @@ EndFunction
 
 Int Function GetTotalEarnedRespect()
     Return TotalRespect.GetValueInt()
+EndFunction
+
+Function CancelJob(string Leader)
+    if Leader == "Aela"
+        bIsRunningAelaRadiant = false
+    elseif Leader == "Farkas"
+        bIsRunningFarkasRadiant = false
+    elseif Leader == "Vilkas"
+        bIsRunningVilkasRadiant = false
+    elseif Leader == "Skjor"
+        bIsRunningSkjorRadiant = false 
+    endif
 EndFunction
