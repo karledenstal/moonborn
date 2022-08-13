@@ -1,0 +1,2 @@
+Scriptname _MB_MoonbornCoreScript extends Quest
+
