@@ -1,0 +1,1 @@
+Scriptname _MB_MoonbornFollowerFramework extends Quest

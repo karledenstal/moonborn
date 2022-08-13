@@ -20,7 +20,7 @@ Only ideas. Not sure it will come to be.
     - CRXX (Rescue Mission), 7 points
     - CRXX (Dragon Quest), 10 points
   - Skjor Radiant Quest
-    - CRXX, 5 points
+    - CRXX, 4 points
     - CRXX, 7 points
   - Main Quest
     - C01, 20 points
@@ -37,17 +37,6 @@ Only ideas. Not sure it will come to be.
   - [ ] Before Proving Honor (C01), you need 10 respect from both Aela & Farkas (20 total)
   - [ ] Before doing The Silver Hand (C03), you need 20 respect from all questgivers (4 quests for Skjor, 4 quests for Vilkas, 2 from Farkas, 2 from Aela)
   - [ ] Before Blood's Honor, you need 300 respect total.
-- [ ] Custom Follower Framework for each Companion with personal boosts
-  - [ ] Aela can transform to werewolf when you do, or when asked to
-  - [ ] Aela boosts:
-    - [ ] Pathfinder, 5% speed increase
-    - [ ] Eye of the Hunter, 5% critical chance (or bow damage)
-  - [ ] Farkas boosts:
-    - [ ] Strength of Ysgramor, 5% one handed/two handed damage
-    - [ ] Ice Brain, +10 speechcraft
-  - [ ] Vilkas boosts:
-    - [ ] Protection, 25+ Armor rating
-    - [ ] Brains over Brawn, 5% skill increase
 - [ ] New radiant quests
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
@@ -86,3 +75,4 @@ Only ideas. Not sure it will come to be.
 - [ ] Cancel radiant quests
 - [ ] Moving up in ranks should remove snarky comments
   - [ ] Njada & Athis pissy comments fix
+- [ ] Skjor & Vilkas only offer jobs after Proving Honor
