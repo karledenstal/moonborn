@@ -56,7 +56,7 @@ Only ideas. Not sure it will come to be.
   - [x] Tell Aela the Giant were dead before you got there
 - [x] Companion leaders no longer wait around for you
 - [ ] Set new Ranks in the Companions
-  - [ ] Decided who becomes your right hand man/woman
+  - [ ] Decide who becomes your right hand man/woman
 - [x] Remove "Talk to Companion leaders for jobs" misc quest
 - [ ] Recruitment requirements
   - [ ] Needs X amount of levels in certain skills to be a member
@@ -87,4 +87,4 @@ Only ideas. Not sure it will come to be.
         - CR13 - Purity
 - [ ] Moving up in ranks should remove snarky comments
   - [ ] Njada & Athis pissy comments fix
-- [ ] Skjor & Vilkas only offer jobs after Proving Honor
+- [/] Skjor & Vilkas only offer jobs after Proving Honor
