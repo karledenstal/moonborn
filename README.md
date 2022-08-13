@@ -59,7 +59,7 @@ Only ideas. Not sure it will come to be.
   - [ ] Decided who becomes your right hand man/woman
 - [x] Remove "Talk to Companion leaders for jobs" misc quest
 - [ ] Recruitment requirements
-  - [ ] Needs X amount of levels in certain schools to be a member
+  - [ ] Needs X amount of levels in certain skills to be a member
   - [ ] If you're dragonborn (Dragon Rising quest completed), requirements are automatically met
 - [ ] If Dragon Rising quest is completed, alter Vilkas dialogue during recruitment phase.
 - [ ] Earn weekly gold as Harbinger
