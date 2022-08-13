@@ -3,7 +3,7 @@
 Only ideas. Not sure it will come to be.
 
 ## RESPECT
-- 100 max per Circle member ???
+- Can gain 100 respect in total.
 - Gain respect from quests
   - Aela Radiant Quests:
     - CR01, 4 points
@@ -34,9 +34,9 @@ Only ideas. Not sure it will come to be.
 ## Feature list
 - [ ] Need to complete quests for all Companions in order to progress main quest
   - [ ] Doing radiant quests gives respect from each questgiver
-  - [ ] Before Proving Honor (C01), you need 10 respect from both Aela & Farkas (20 total)
-  - [ ] Before doing The Silver Hand (C03), you need 20 respect from all questgivers (4 quests for Skjor, 4 quests for Vilkas, 2 from Farkas, 2 from Aela)
-  - [ ] Before Blood's Honor, you need 300 respect total.
+  - [ ] Before Proving Honor (C01), you need 20 total respect
+  - [ ] Before doing The Silver Hand (C03), you need 60 total respect
+  - [ ] Before Blood's Honor, you need 100 total respect. 
 - [ ] New radiant quests
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
