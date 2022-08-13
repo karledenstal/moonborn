@@ -1,0 +1,4 @@
+*.ppj
+*.code-workspace
+meta.ini
+.vscode
