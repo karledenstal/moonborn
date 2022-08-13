@@ -2,7 +2,7 @@
 
 Only ideas. Not sure it will come to be.
 
-RESPECT
+## RESPECT
 - 100 max per Circle member ???
 - Gain respect from quests
   - Aela Radiant Quests:
@@ -31,6 +31,7 @@ RESPECT
 - Global Variables: _MB_AelaRespect, _MB_SkjorRespect, _MB_VilkasRespect, _MB_FarkasRespect, _MB_TotalRespect
 - MCM will show respect from each quest giver + total respect
 
+## Feature list
 - Need to complete quests for all Companions in order to progress main quest
   - Doing radiant quests gives respect from each questgiver
   - Before Proving Honor (C01), you need 10 respect from both Aela & Farkas (20 total)
