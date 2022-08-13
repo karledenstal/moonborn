@@ -70,6 +70,21 @@ Only ideas. Not sure it will come to be.
     - [ ] "Let me tell you something"
 - [ ] Take more than one job at a time, if possible
 - [ ] Cancel radiant quests
+    - [ ] CR01 - Animal Extermination
+    - [ ] CR02 - Animal Extermination
+    - [ ] CR03 - Animal Pelt Collection
+    - [x] CR04 - Hired Muscle
+    - [ ] CR05 - Trouble in Skyrim
+    - [ ] CR06 - Family Heirloom
+    - [ ] CR07 - Escaped Criminal
+    - [ ] CR08 - Rescue Mission
+    - [ ] CR14 - Dragon Seekers
+    - [x] Not possible to cancel following
+        - CR09 - Striking the Heart
+        - CR10 - Stealing Plans
+        - CR11 - Retrieval
+        - CR12 - Totems of Hircine
+        - CR13 - Purity
 - [ ] Moving up in ranks should remove snarky comments
   - [ ] Njada & Athis pissy comments fix
 - [ ] Skjor & Vilkas only offer jobs after Proving Honor
