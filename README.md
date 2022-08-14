@@ -68,7 +68,13 @@ Only ideas. Not sure it will come to be.
   - [ ] "I have some guidance for you..."
     - [ ] "Let me show you something"
     - [ ] "Let me tell you something"
-- [ ] Take more than one job at a time, if possible
+- [ ] Take more than one job at a time
+    - [ ] Can't take more jobs from same questgiver
+    - [ ] Up to 4 radiant quests at a time
+        - 1 from Skjor
+        - 1 from Vilkas
+        - 1 from Farkas
+        - 1 from Aela
 - [x] Cancel radiant quests
     - [x] CR01 - Animal Extermination
     - [x] CR02 - Animal Extermination
