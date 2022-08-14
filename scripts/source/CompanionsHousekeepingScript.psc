@@ -1026,23 +1026,25 @@ int function CompleteRadiantQuest(CompanionsRadiantQuest rq)
 		fqgCount = SkjorQuests
 	endif
 	
+	Int TotalRespectEarned = (MBCore as _MB_MoonbornCoreScript).GetTotalRespectEarned()
+
 	; check to see if it's time to start the next story quest
 	bool startedStory = False
 	if     (C01.GetStage() < 1)
 		; count
-		if (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC01)
+		if ((RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC01) && (TotalRespectEarned >= 20))
 			StartStoryQuest(C01)
 			startedStory = True
 		endif
 	elseif (C03.GetStage() < 1)
 		; count
-		if (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC03)
+		if ((RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC03) && (TotalRespectEarned >= 60))
 			StartStoryQuest(C03)
 			startedStory = True
 		endif
 	elseif (C04.GetStage() < 1)
 		; count, also min level
-		if ( (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC04) && (Game.GetPlayer().GetLevel() >= C04MinLevel) )
+		if ( (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC04)  && (TotalRespectEarned >= 100) )
 			StartStoryQuest(C04)
 			startedStory = True
 		endif

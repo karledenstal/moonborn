@@ -18,6 +18,9 @@ Int Property ProvingHonorRespect auto
 Int Property SilverHandRespect auto
 Int Property BloodsHonorRespect auto
 
+Int Function GetTotalRespectEarned()
+    Return TotalRespect.GetValueInt()
+EndFunction
 
 Function RewardPlayerWithRespect(Actor RewardFrom, int amountType = 0)
     Int AmountOfRespect = GetNewRespect(amountType) ; Get Amount of respect earned
