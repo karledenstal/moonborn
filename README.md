@@ -37,7 +37,8 @@ Only ideas. Not sure it will come to be.
   - [x] Before Proving Honor (C01), you need 20 total respect
   - [x] Before doing The Silver Hand (C03), you need 60 total respect
   - [x] Before Blood's Honor (C04), you need 90 total respect.
-  - [ ] Get base amount of respect for joining Companions
+  - [x] Get base amount of respect for joining Companions
+  - [ ] Get Respect from doing story quests
 - [ ] New radiant quests
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
