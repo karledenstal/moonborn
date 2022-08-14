@@ -93,4 +93,4 @@ Only ideas. Not sure it will come to be.
         - CR14 - Dragon Seekers
 - [ ] Moving up in ranks should remove snarky comments
   - [ ] Njada & Athis pissy comments fix
-- [ ] Skjor & Vilkas only offer jobs after Proving Honor
+- [x] Skjor & Vilkas only offer jobs after Proving Honor
