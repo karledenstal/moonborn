@@ -69,22 +69,22 @@ Only ideas. Not sure it will come to be.
     - [ ] "Let me show you something"
     - [ ] "Let me tell you something"
 - [ ] Take more than one job at a time, if possible
-- [ ] Cancel radiant quests
-    - [ ] CR01 - Animal Extermination
-    - [ ] CR02 - Animal Extermination
-    - [ ] CR03 - Animal Pelt Collection
+- [x] Cancel radiant quests
+    - [x] CR01 - Animal Extermination
+    - [x] CR02 - Animal Extermination
+    - [x] CR03 - Animal Pelt Collection
     - [x] CR04 - Hired Muscle
-    - [ ] CR05 - Trouble in Skyrim
-    - [ ] CR06 - Family Heirloom
-    - [ ] CR07 - Escaped Criminal
-    - [ ] CR08 - Rescue Mission
-    - [ ] CR14 - Dragon Seekers
+    - [x] CR05 - Trouble in Skyrim
+    - [x] CR06 - Family Heirloom
+    - [x] CR07 - Escaped Criminal
+    - [x] CR08 - Rescue Mission
     - [x] Not possible to cancel following
         - CR09 - Striking the Heart
         - CR10 - Stealing Plans
         - CR11 - Retrieval
         - CR12 - Totems of Hircine
         - CR13 - Purity
+        - CR14 - Dragon Seekers
 - [ ] Moving up in ranks should remove snarky comments
   - [ ] Njada & Athis pissy comments fix
-- [/] Skjor & Vilkas only offer jobs after Proving Honor
+- [ ] Skjor & Vilkas only offer jobs after Proving Honor
