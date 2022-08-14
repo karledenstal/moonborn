@@ -981,6 +981,9 @@ int function CompleteRadiantQuest(CompanionsRadiantQuest rq)
 			FarkasQuests += 1
 		endif
 
+		; Reward the player with Respect
+		(MBCore as _MB_MoonbornCoreScript).RewardPlayerWithRespect(qg, rq.RespectAmountType)
+		
 		; increment overall radiant quest count
 		RadiantQuestsDone += 1
 		RadiantQuestsDoneInCurrentSegment += 1

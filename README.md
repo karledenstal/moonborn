@@ -32,11 +32,12 @@ Only ideas. Not sure it will come to be.
 - MCM will show respect from each quest giver + total respect
 
 ## Feature list
-- [ ] Need to complete quests for all Companions in order to progress main quest
-  - [ ] Doing radiant quests gives respect from each questgiver
+- [x] Need to complete quests for all Companions in order to progress main quest
+  - [x] Doing radiant quests gives respect from each questgiver
   - [x] Before Proving Honor (C01), you need 20 total respect
   - [x] Before doing The Silver Hand (C03), you need 60 total respect
-  - [x] Before Blood's Honor (C04), you need 90 total respect. 
+  - [x] Before Blood's Honor (C04), you need 90 total respect.
+  - [ ] Get base amount of respect for joining Companions
 - [ ] New radiant quests
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
@@ -56,9 +57,6 @@ Only ideas. Not sure it will come to be.
   - [x] Tell Aela the Giant were dead before you got there
 - [x] Companion leaders no longer wait around for you
 - [x] Remove "Talk to Companion leaders for jobs" misc quest
-- [ ] Recruitment requirements
-  - [ ] Needs X amount of levels in certain skills to be a member
-  - [ ] If you're dragonborn (Dragon Rising quest completed), requirements are automatically met
 - [ ] If Dragon Rising quest is completed, alter Vilkas dialogue during recruitment phase.
 - [ ] Earn weekly gold as Harbinger
 - [ ] Turn Jorrvaskr into proper Mead Hall

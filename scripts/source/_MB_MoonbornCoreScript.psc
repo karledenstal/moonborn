@@ -10,10 +10,10 @@ GlobalVariable Property SkjorRespect auto
 Quest Property CentralQuest auto
 
 ; Variables
-Int Property LowAmountOfRespect auto
-Int Property MediumAmountOfRespect auto
-Int Property HighAmountOfRespect auto
-Int Property MaxAmountOfRespect auto
+Int Property LowAmountOfRespect auto ; 2 by default
+Int Property MediumAmountOfRespect auto ; 4 by default
+Int Property HighAmountOfRespect auto ; 7 by default
+Int Property MaxAmountOfRespect auto ; 10 by default
 Int Property ProvingHonorRespect auto 
 Int Property SilverHandRespect auto
 Int Property BloodsHonorRespect auto
@@ -23,6 +23,7 @@ Int Function GetTotalRespectEarned()
 EndFunction
 
 Function RewardPlayerWithRespect(Actor RewardFrom, int amountType = 0)
+    Debug.Notification("Earned respect from " + RewardFrom.GetName() + ", amount type " + amountType)
     Int AmountOfRespect = GetNewRespect(amountType) ; Get Amount of respect earned
     Int NewTotalRespect = TotalRespect.GetValueInt() + AmountOfRespect ; add it to Total respect
     TotalRespect.SetValueInt(NewTotalRespect) ; Update val
