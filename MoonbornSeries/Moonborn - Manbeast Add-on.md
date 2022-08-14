@@ -14,3 +14,4 @@ Manbeast is pretty much the perfect Vanilla+ Werewolf mod, and paired with Preda
         - Locks Night vision for human form until perk is taken
     - [ ] Human predator vision
         - Locks Predator visiong for human form until perk is taken
+    - [ ] Use claws to unlock doors/chests
