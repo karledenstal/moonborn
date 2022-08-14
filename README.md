@@ -34,9 +34,9 @@ Only ideas. Not sure it will come to be.
 ## Feature list
 - [ ] Need to complete quests for all Companions in order to progress main quest
   - [ ] Doing radiant quests gives respect from each questgiver
-  - [ ] Before Proving Honor (C01), you need 20 total respect
-  - [ ] Before doing The Silver Hand (C03), you need 60 total respect
-  - [ ] Before Blood's Honor, you need 100 total respect. 
+  - [x] Before Proving Honor (C01), you need 20 total respect
+  - [x] Before doing The Silver Hand (C03), you need 60 total respect
+  - [x] Before Blood's Honor, you need 100 total respect. 
 - [ ] New radiant quests
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
