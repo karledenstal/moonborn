@@ -41,11 +41,11 @@ Only ideas. Not sure it will come to be.
   - [ ] Hunt the Beast
     - [ ] Hunt a rogue werewolf (vague quest markers, new ability "Track")
     - [ ] Given by Aela (spliced dialogue)
-    - [ ] Only given after Player is Harbinger
+    - [ ] Only given after The Silver Hand (C03) is completed 
   - [ ] Gather Materials
     - [ ] Gather crafting materials for Eorlund Gray-mane
     - [ ] Gather ingredients for potions
-    - [ ] Given by Farkas(spliced dialogue)
+    - [ ] Given by Farkas (spliced dialogue)
   - [ ] New Recruit
     - [ ] Find new recruits for the Companions
     - [ ] Given by Vilkas (spliced dialogue)

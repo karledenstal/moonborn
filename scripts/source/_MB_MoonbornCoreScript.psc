@@ -7,11 +7,6 @@ GlobalVariable Property FarkasRespect auto
 GlobalVariable Property VilkasRespect auto
 GlobalVariable Property SkjorRespect auto
 
-Bool Property bIsRunningAelaRadiant auto conditional
-Bool Property bIsRunningFarkasRadiant auto conditional
-Bool Property bIsRunningVilkasRadiant auto conditional
-Bool Property bIsRunningSkjorRadiant auto conditional
-
 Quest Property CentralQuest auto
 
 ; Variables
@@ -25,8 +20,12 @@ Int Property BloodsHonorRespect auto
 
 
 Function RewardPlayerWithRespect(Actor RewardFrom, int amountType = 0)
+    Int AmountOfRespect = GetNewRespect(amountType) ; Get Amount of respect earned
+    Int NewTotalRespect = TotalRespect.GetValueInt() + AmountOfRespect ; add it to Total respect
+    TotalRespect.SetValueInt(NewTotalRespect) ; Update val
+
     if RewardFrom == (CentralQuest as CompanionsHousekeepingScript).Farkas.GetReference() as Actor
-        Int NewFarkasRespect = FarkasRespect.GetValueInt() + GetNewRespect(amountType)
+        Int NewFarkasRespect = FarkasRespect.GetValueInt() + AmountOfRespect
         FarkasRespect.SetValueInt(NewFarkasRespect)
     elseif RewardFrom == (CentralQuest as CompanionsHousekeepingScript).Aela.GetReference() as Actor
         Int NewAelaRespect = AelaRespect.GetValueInt() + GetNewRespect(amountType)
