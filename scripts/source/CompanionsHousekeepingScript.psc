@@ -1044,7 +1044,7 @@ int function CompleteRadiantQuest(CompanionsRadiantQuest rq)
 		endif
 	elseif (C04.GetStage() < 1)
 		; count, also min level
-		if ( (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC04)  && (TotalRespectEarned >= 100) )
+		if ( (RadiantQuestsDoneInCurrentSegment >= RadiantQuestsUntilC04)  && (TotalRespectEarned >= 90) )
 			StartStoryQuest(C04)
 			startedStory = True
 		endif
