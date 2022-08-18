@@ -54,3 +54,9 @@ Int Function GetNewRespect(int AmountType)
         Return MaxAmountOfRespect
     endif
 EndFunction
+
+Function SkjorsDeadNoMoreRespect()
+    Int NewTotalRespect = TotalRespect.GetValueInt() - SkjorRespect.GetValueInt() ; remove Skjors respect from total respect
+    SkjorRespect.SetValue(0) ; set Skjor respect to 0 since he's ded.
+    TotalRespect.SetValue(NewTotalRespect)
+EndFunction

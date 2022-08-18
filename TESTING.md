@@ -6,6 +6,7 @@ What features are tested & done and which are in need of testing.
 
 - Cancel Radiant Quests (all except Hired Muscle)
 - Vilkas & Skjor should offer radiant quests after Proving Honor
+- Respect system
 
 ## Testing done
 
